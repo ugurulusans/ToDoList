@@ -1,0 +1,6 @@
+2025-07-22 09:57:45,384 - INFO - Borsa Sinyal Botu Başlatıldı!
+2025-07-22 09:57:45,384 - INFO - İzlenecek Hisseler: ['AAPL', 'TUPRS.IS']
+2025-07-22 09:57:45,384 - INFO - 'AAPL' için işlem başlıyor...
+2025-07-22 09:57:45,997 - INFO - 'AAPL' için üretilen sinyal: HOLD
+2025-07-22 09:57:45,997 - INFO - 'TUPRS.IS' için işlem başlıyor...
+2025-07-22 09:57:46,347 - INFO - 'TUPRS.IS' için üretilen sinyal: HOLD
